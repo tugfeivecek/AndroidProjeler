@@ -1,2 +1,2 @@
 # AndroidProjeler
-Android Studio platformunda java ilegeliştirilmiş projeler
+Android Studio platformunda java ile geliştirilmiş projeler
